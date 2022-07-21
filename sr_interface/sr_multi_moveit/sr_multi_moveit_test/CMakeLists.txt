@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 2.8.3)
+cmake_minimum_required(VERSION 2.8.12)
 project(sr_multi_moveit_test)
 
 find_package(catkin REQUIRED COMPONENTS moveit_core moveit_ros_planning_interface)

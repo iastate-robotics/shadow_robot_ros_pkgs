@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 2.8.3)
+cmake_minimum_required(VERSION 2.8.12)
 project(sr_mechanism_controllers)
 add_compile_options(-std=c++11)
 find_package(catkin REQUIRED COMPONENTS rostest std_msgs std_srvs roscpp actionlib controller_manager_msgs sr_robot_msgs

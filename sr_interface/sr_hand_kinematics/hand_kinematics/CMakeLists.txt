@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 2.8.3)
+cmake_minimum_required(VERSION 2.8.12)
 project(hand_kinematics)
 find_package(catkin REQUIRED COMPONENTS roscpp rostest tf urdf kdl_parser kdl_coupling sensor_msgs tf_conversions
         moveit_core geometry_msgs pluginlib moveit_msgs moveit_ros_planning sr_utilities)
